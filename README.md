@@ -15,4 +15,4 @@ Download Python wheel **tensorflow-2.2.0-cp37-cp37m-linux_armv7l** from [Gdrive]
 Download C++ API **libtensorflow_2_2_0.tar.gz** from [Gdrive](https://drive.google.com/open?id=143abOB3eyMvCq6nj6M7co4-v9VLR5SW0) <br/><br/>
 
 Please notice, this is the full TensorFlow package, not the small computer TensorFlow Lite version.
-For this guide of TensorFlow Lite see (Install TensorFlow Lite](https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-pi-4.html)
+For this guide of TensorFlow Lite see [Install TensorFlow Lite](https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-pi-4.html)
