@@ -1,6 +1,7 @@
 # TensorFlow for the Raspberry Pi 32-bit OS
 Please find the installation wheels for your RPi with a usual Raspbian 32-bit OS <br/>
-Note, for the Raspberry PI **64-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)<br/>
+Note, for the Raspberry PI **64-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)<br/><br/>
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) <br/><br/>
 ## TensorFlow 1.15.2 for the Raspberry Pi
 TensorFlow installation files for the Raspberry Pi 3/4 <br/>
 For the installation guide see [Install TensorFlow 1.15.2](https://qengineering.eu/install-tensorflow-1.15.2-on-raspberry-pi-4.html) <br/><br/>
